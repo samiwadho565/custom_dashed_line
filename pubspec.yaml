@@ -1,0 +1,17 @@
+name: custom_dashed_line
+description: A lightweight Flutter widget to draw custom dashed horizontal lines.
+version: 0.0.1
+homepage: https://github.com/samiwadho5/custom_dashed_line
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
